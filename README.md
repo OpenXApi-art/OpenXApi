@@ -722,9 +722,17 @@ for chunk in stream:
 
 ---
 
-## Star History
+## Star Us / 点个 Star
 
+If you find OpenX API useful, please give us a star — it helps more developers discover this project!
+
+如果你觉得 OpenX API 有用，请给我们点个 Star — 帮助更多开发者发现这个项目！
+
+[![GitHub stars](https://img.shields.io/github/stars/OpenXApi-art/OpenXApi?style=social)](https://github.com/OpenXApi-art/OpenXApi)
+
+<!-- Star History will be added when the repo reaches 50+ stars
 [![Star History Chart](https://api.star-history.com/svg?repos=OpenXApi-art/OpenXApi&type=Date)](https://star-history.com/#OpenXApi-art/OpenXApi&Date)
+-->
 
 ---
 
